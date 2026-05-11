@@ -2,6 +2,7 @@
 #include <iostream>
 using namespace std;
 
+
 int main() {
     string usuario, contrasena;
     int intentos = 0;

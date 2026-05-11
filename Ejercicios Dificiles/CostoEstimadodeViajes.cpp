@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int transporte;
     int distancia;
-    int precio;
+    float precio;
 
     cout << "----Bienvenido a viajes----" << endl;
     cout << "Ingrese el tipo de transporte" << endl;
